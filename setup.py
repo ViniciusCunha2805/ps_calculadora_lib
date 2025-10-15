@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="calculator-doug-lib",
+    name="calculator_vini_lib",
     version="0.1.1",
     description="Biblioteca de operações matemáticas básicas em Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Douglas Lima",
-    author_email="douglasbolislima@gmail.com",
-    url="https://github.com/douglasbolis/ps_calculadora_lib",
+    author="Vinicius Cunha",
+    author_email="viniciussilvacunha2805@gmail.com",
+    url="https://github.com/ViniciusCunha2805/ps_calculadora_lib",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

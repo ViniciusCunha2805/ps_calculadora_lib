@@ -1,10 +1,10 @@
 Metadata-Version: 2.4
-Name: calculator-doug-lib
+Name: calculator_vini_lib
 Version: 0.1.1
 Summary: Biblioteca de operações matemáticas básicas em Python.
-Home-page: https://github.com/douglasbolis/ps_calculadora_lib
-Author: Douglas Lima
-Author-email: douglasbolislima@gmail.com
+Home-page: https://github.com/ViniciusCunha2805/ps_calculadora_lib
+Author: Vinicius Cunha
+Author-email: viniciussilvacunha2805@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.8
